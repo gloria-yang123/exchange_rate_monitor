@@ -6,7 +6,7 @@
 
 # 方式1：飞书自定义机器人Webhook（推荐，简单快捷）
 # 在飞书群组中添加"自定义机器人"，复制Webhook地址填入下方
-FEISHU_WEBHOOK_URL = "https://open.feishu.cn/open-apis/bot/v2/hook/ff6c5467-2514-4c60-ad6b-0899fb1828ca"
+FEISHU_WEBHOOK_URL = "https://open.feishu.cn/open-apis/bot/v2/hook/e7e709dd-6a49-4e31-ac90-614c7b6bd91f"
 
 # 方式2：飞书开放平台应用（需要激活机器人能力）
 # 如果使用此方式，需要在飞书开放平台创建应用并启用机器人功能
